@@ -6,7 +6,7 @@
 -  **Working :** Back-End :computer: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Movies :movie_camera:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Fun fact :** When most developer loves coffee:sweat_smile:, I prefer:heart: tea :tea:  
 -  **Pronouns :** He/Him :innocent: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
