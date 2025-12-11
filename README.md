@@ -10,14 +10,8 @@
 -  **Pronouns :** He/Him :innocent: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors count
-
-![VisitorCount](https://profile-counter.glitch.me/kongfei605/count.svg)
-
 ### 📊 Profile stats
-
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongfei605&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kongfei605&theme=dracula" />
+<img height="160em" src="https://streak-stats.demolab.com/?user=kongfei605&theme=dracula" />
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
